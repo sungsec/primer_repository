@@ -1,0 +1,2 @@
+este es el primer push a git.com
+add pull rule to git.com
